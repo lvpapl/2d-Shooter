@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: dc639e607e380f6449e04ef65271a98e
+timeCreated: 1441170933
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: laser_0
+    21300002: laser_1
+    21300004: laser_2
+    21300006: laser_3
+    21300008: laser_4
+    21300010: laser_6
+    21300012: laser_8
+    21300014: laser_10
+    21300016: laser_12
+    21300018: laser_14
+    21300020: laser_21
+    21300022: laser_23
+    21300024: laser_25
+    21300026: laser_27
+    21300028: laser_28
+    21300030: laser_29
+    21300032: laser_30
+    21300034: laser_31
+    21300036: laser_32
+    21300038: laser_36
+    21300040: laser_37
+    21300042: laser_38
+    21300044: laser_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: laser_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 132
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 128
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 128
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 130
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 134
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 75
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 74
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_12
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 76
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_14
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 77
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_23
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 29
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_25
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 34
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 42
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_28
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 50
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_29
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 50
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_30
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 50
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_31
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 50
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_32
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 50
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_37
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_38
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser_39
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
